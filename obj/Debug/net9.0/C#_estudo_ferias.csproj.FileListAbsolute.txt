@@ -1,0 +1,14 @@
+C:\Users\peixj\Documents\estudo_férias\C#_estudo_ferias\bin\Debug\net9.0\C#_estudo_ferias.exe
+C:\Users\peixj\Documents\estudo_férias\C#_estudo_ferias\bin\Debug\net9.0\C#_estudo_ferias.deps.json
+C:\Users\peixj\Documents\estudo_férias\C#_estudo_ferias\bin\Debug\net9.0\C#_estudo_ferias.runtimeconfig.json
+C:\Users\peixj\Documents\estudo_férias\C#_estudo_ferias\bin\Debug\net9.0\C#_estudo_ferias.dll
+C:\Users\peixj\Documents\estudo_férias\C#_estudo_ferias\bin\Debug\net9.0\C#_estudo_ferias.pdb
+C:\Users\peixj\Documents\estudo_férias\C#_estudo_ferias\obj\Debug\net9.0\C#_estudo_ferias.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\peixj\Documents\estudo_férias\C#_estudo_ferias\obj\Debug\net9.0\C#_estudo_ferias.AssemblyInfoInputs.cache
+C:\Users\peixj\Documents\estudo_férias\C#_estudo_ferias\obj\Debug\net9.0\C#_estudo_ferias.AssemblyInfo.cs
+C:\Users\peixj\Documents\estudo_férias\C#_estudo_ferias\obj\Debug\net9.0\C#_estudo_ferias.csproj.CoreCompileInputs.cache
+C:\Users\peixj\Documents\estudo_férias\C#_estudo_ferias\obj\Debug\net9.0\C#_estudo_ferias.dll
+C:\Users\peixj\Documents\estudo_férias\C#_estudo_ferias\obj\Debug\net9.0\refint\C#_estudo_ferias.dll
+C:\Users\peixj\Documents\estudo_férias\C#_estudo_ferias\obj\Debug\net9.0\C#_estudo_ferias.pdb
+C:\Users\peixj\Documents\estudo_férias\C#_estudo_ferias\obj\Debug\net9.0\C#_estudo_ferias.genruntimeconfig.cache
+C:\Users\peixj\Documents\estudo_férias\C#_estudo_ferias\obj\Debug\net9.0\ref\C#_estudo_ferias.dll
